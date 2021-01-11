@@ -20,7 +20,7 @@ A competition against my Ironhack colleagues where we developed several ML model
 The link to the competition: [Kaggle Competition](https://www.kaggle.com/c/diamonds-datamad0820)
 
 - Ironhack Data Bootcamp 
-[Labs](https://github.com/charliesket/datamad0820)
+>[Labs](https://github.com/charliesket/datamad0820)\
 [Prework](https://github.com/charliesket/bcn-feb-2019-prework)
 
 
